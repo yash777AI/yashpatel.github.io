@@ -1,0 +1,13 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Yash Patel]
+description: [I’m Yash Patel, a passionate and driven Computer Science professional currently pursuing my Master’s in Computer Science at the University of Alabama at Birmingham. With a strong foundation in data analytics, machine learning, and software development, I thrive on solving complex real-world problems—especially at the intersection of healthcare, data science, and AI.
+
+Over the years, I have gained hands-on experience across a wide spectrum of roles—from data analyst internships to research-focused positions—working with tools like Python, Power BI, MySQL, Tableau, and platforms such as AWS, Git, and Oracle EBS. I’ve worked on diverse projects, including crime prediction models, COVID-19 misinformation detection, and road safety dashboards, all rooted in extracting actionable insights from data.
+
+My recent research work at UAB explores machine learning and time series analysis in the medical domain, with a focus on body gait analysis. This reflects my deeper interest in leveraging data-driven technologies for public health and national well-being.
+
+I believe in the power of interdisciplinary learning and continue to enhance my skills in statistical modeling, deep learning, and full-stack development. Whether it's building dashboards, writing clean backend code, or contributing to impactful research, I bring a problem-solving mindset, technical proficiency, and collaborative spirit to every challenge.
+
+Let’s connect and build something meaningful.]
