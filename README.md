@@ -66,7 +66,7 @@ I'm passionate about creating intelligent systems that drive **data-driven decis
 
 ## 🚀 Projects
 
-### 📍 Crime Analysis & Prediction – *Python*  
+### 📍 Crime Analysis & Prediction – *Python* https://github.com/yash777AI/Python-projects/blob/main/Crime%20Analysis%20and%20Prediction%20Using%20Chicago%20Crime%20Dataset%20(2001-2017).pdf  
 - Cleaned and visualized **Chicago Crime Dataset**, built a **Random Forest** model to predict crime patterns.
 
 ### 🛣 Road Accident Dashboard – *Power BI*  
