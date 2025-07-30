@@ -5,7 +5,6 @@
 📍 Birmingham, Alabama  
 🔗 [LinkedIn](https://www.linkedin.com/in/)  
 🔗 [GitHub](https://github.com/yash777AI)  
-🔗 [Portfolio Website](https://yash-insight-forge.lovable.app)
 
 ---
 
