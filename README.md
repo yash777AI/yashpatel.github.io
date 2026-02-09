@@ -95,6 +95,12 @@ With strong industry experience and academic exposure, I specialize in building 
 - Integrated scheduling automation and optimized doctor-patient flow.  
 - Used Decision Tree algorithm to map appointment requests to doctor availability.
 
+### 🔍 Neural CellVision: Advanced Hematological Image Classification System – *CNN*
+- Architectural Evolution: Engineered a multi-stage classification pipeline transitioning from a Regularized Linear Baseline to a Deep CNN using the Keras Functional API, incorporating Custom Layers to capture complex spatial hierarchies in hematological images.
+- Advanced Optimization: Implemented a high-efficiency tf.data pipeline with CutMix Augmentation (@tf.function), L2 Regularization, and Exponential LR Scheduling to mitigate overfitting and maximize generalization on medical datasets.
+-  Rigorous Validation: Deployed a comprehensive evaluation suite—including Early Stopping, Macro-Precision/Recall, and Per-class ROC/AUC curves—to ensure stable convergence and diagnostic reliability across all 4 cell types.
+  
+
 ---
 
 ## 📫 Get in Touch
